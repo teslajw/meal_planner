@@ -1,8 +1,8 @@
-#include <stdio>
-#include <stdout> 
+
+#include <iostream>
 
 int main()
 {  
-  cout << "Hello World"; 
-  Return 0; 
+  std::cout << "Hello World"; 
+  return 0; 
 }
